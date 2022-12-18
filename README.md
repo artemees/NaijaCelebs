@@ -67,9 +67,7 @@ plt.imshow(gray, cmap='gray')
 
 
 
-
-    
-![png](output_4_1.png)
+![output_4_1](https://user-images.githubusercontent.com/59312765/208316061-26a0f26b-3aee-4a20-b9c9-e35abaf6b8c3.png)
     
 
 
@@ -117,7 +115,7 @@ plt.imshow(face_img)
 
 
     
-![png](output_7_1.png)
+![output_7_1](https://user-images.githubusercontent.com/59312765/208316083-b8f527f7-43c4-427d-bf76-d35f6afb3017.png)
     
 
 
@@ -140,7 +138,7 @@ plt.show()
 
 
     
-![png](output_8_0.png)
+![output_8_0](https://user-images.githubusercontent.com/59312765/208316095-164a82bf-866a-4d5b-b88a-cd1fc7c40714.png)
     
 
 
@@ -158,8 +156,7 @@ plt.imshow(roi_color, cmap='gray')
 
 
 
-    
-![png](output_9_1.png)
+![output_9_1](https://user-images.githubusercontent.com/59312765/208316105-eebdfacc-807d-4700-9ba2-75ed37e3fba5.png)
     
 
 
@@ -191,8 +188,7 @@ plt.imshow(original_image)
 
 
 
-    
-![png](output_11_1.png)
+![output_11_1](https://user-images.githubusercontent.com/59312765/208316122-f9215ba0-4b88-467a-8aa1-629d7db83caf.png)
     
 
 
@@ -210,8 +206,7 @@ plt.imshow(cropped_image)
 
 
 
-    
-![png](output_12_1.png)
+![output_12_1](https://user-images.githubusercontent.com/59312765/208316140-bef9b8e5-40f0-424a-aded-c3ae14f65e80.png)
     
 
 
@@ -340,8 +335,8 @@ plt.imshow(im_har, cmap='gray')
 
 
 
-    
-![png](output_20_1.png)
+
+![output_20_1](https://user-images.githubusercontent.com/59312765/208316149-e9f8be3b-38a6-4569-bb32-d6bf67211545.png)
     
 
 
@@ -700,22 +695,6 @@ df
 ```
 
 
-
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
